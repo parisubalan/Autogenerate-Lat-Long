@@ -30,7 +30,7 @@
         // google map api to place for application tag only
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCXD-E-WW-CHRoclGvTp0mHALo3KGnITN0"/>
+            android:value="Your Api Key"/>
 
     </application>
 
